@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Cursando: Análise e Desenvolvimento de Sistemas - IFRR<br>🎯 Objetivos: Aprender de tudo um pouco<br>💻 Área de Atuação: Back-end e Automação de Tarefas.</p>
+<p align="left">📚 Cursando: Análise e Desenvolvimento de Sistemas - IFRR<br>🎯 Objetivos: Aprender de tudo um pouco<br>💻 Área que pretendo atuar: Back-end e Automação de Tarefas.</p>
 
 ###
 
