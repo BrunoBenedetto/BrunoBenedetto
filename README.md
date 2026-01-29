@@ -1,4 +1,4 @@
-<h1 align="left">👋 Me apresentando.</h1>
+<h1 align="left">👋 Me apresentando</h1>
 
 ###
 
