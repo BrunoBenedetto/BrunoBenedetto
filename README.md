@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Me chamo Bruno, sou um estudante e curioso na área.</p>
+<p align="left">Me chamo Bruno, sou estudante de ADS e pretendo me aprofundar no mundo da programação.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Cursando: Análise e Desenvolvimento de Sistemas - IFRR<br>🎯 Objetivos: Aprender de tudo um pouco<br>💻 Área que pretendo atuar: Back-end e Automação de Tarefas.</p>
+<p align="left">📚 Cursando: Análise e Desenvolvimento de Sistemas - IFRR<br>🎯 Objetivos: Ter uma base sólida das ferramentas que vou utilizar e aplicar no ambiente de trabalho<br>💻 Área que pretendo atuar: Fullstack e Automação de Tarefas.</p>
 
 ###
 
@@ -25,22 +25,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/html/html.svg" height="40" alt="html5 logo"  />
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" height="40" alt="css3 logo"  />
+  
 </div>
 
-###
-
-<h2 align="left">Futuras ferramentas que pretendo usar</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-</div>
-
-###
